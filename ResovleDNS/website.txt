@@ -1,0 +1,400 @@
+null<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
+<meta name="robots" content="all">
+<meta name="referrer" content="always">
+<meta name="renderer" content="webkit">
+<meta http-equiv="Cache-Control" content="no-transform" />
+<meta name="format-detection" content="telephone=no"/>
+<meta name="applicable-device" content="pc,mobile"/>
+<meta name="apple-mobile-web-app-capable" content="yes"/>
+<meta name="apple-mobile-web-app-status-bar-style" content="black"/>
+<title>github.com服务器iP github.com域名解析 github.comiP查询 github.com域名iP查询</title>
+<link type="text/css" rel="stylesheet" href="//cache.ip138.com/site/style/dist/responsive.css?v=202006241500"/>
+<link type="text/css" rel="stylesheet" href="//cache.ip138.com/site/style/dist/index.css?v=202006241500"/>
+<script>
+if (window.top != window.self) {
+window.top.location.href = 'https://site.ip138.com/';
+}
+var _TOKEN = '3aa7af4a2e4565eb8a2225c783900848';
+var CONFIG = {
+'cacheUrl':'//cache.ip138.com/'
+};
+</script>
+</head>
+<body>
+<div class="wrapper">
+<div class="header">
+<div class="mod-head">
+<ul class="link only-pc">
+<li><span class="icon-date"></span></li>
+</ul>
+<a class="logo" href="http://www.ip138.com/"><img src="//cache.ip138.com/site/image/public/logo.png" width="147" height="50" alt="查询网"></a>
+<a class="menu only-mobile" href="javascript:;" rel="nofollow"><span></span><span></span><span></span></a>
+</div>
+</div>
+<div class="container">
+<div class="side">
+<div class="mod-link">
+<div class="bd">
+<ul>
+<li class="small"><a href="//www.ip138.com/" target="_blank">iP查询</a></li>
+<li class="small"><a href="//qq.ip138.com/weather/" target="_blank">天气预报</a></li>
+<li><a href="//www.ip138.com/sj/" target="_blank">手机号码归属地查询</a></li>
+<li><a href="https://www.liantu.com/" target="_blank">二维码生成器</a></li>
+<li><a href="https://caipiao.ip138.com/" target="_blank">彩票开奖查询</a></li>
+<li><a href="//bifen.ip138.com/" target="_blank">体育比赛比分</a></li>
+<li><a href="https://www.yitaifang.com/" target="_blank">以太坊区块浏览器</a></li>
+<li><a href="//www.ip138.com/weizhang.htm" target="_blank">车辆交通违章查询</a></li>
+<li class="small"><a href="http://10.ip138.com/" target="_blank">品牌排行榜</a></li>
+<li class="small"><a href="//qq.ip138.com/hl.asp" target="_blank">汇率查询</a></li>
+<li><a href="//www.ip138.com/jb.htm" target="_blank">国内国际机票查询</a></li>
+<li><a href="//qq.ip138.com/train/" target="_blank">国内列车时刻表查询</a></li>
+<li class="small"><a href="//qq.ip138.com/tran.htm" target="_blank">在线翻译</a></li>
+<li class="small"><a href="//www.ip138.com/ems/" target="_blank">快递查询</a></li>
+<li class="small"><a href="//www.ip138.com/post/" target="_blank">区号查询</a></li>
+<li class="small"><a href="//www.ip138.com/post/" target="_blank">邮编查询</a></li>
+<li><a href="//qq.ip138.com/idsearch/" target="_blank">身份证号码查询验证</a></li>
+<li class="small"><a href="//qq.ip138.com/wb/wb.asp" target="_blank">拼音查询</a></li>
+<li class="small"><a href="//qq.ip138.com/zt.htm" target="_blank">转贴工具</a></li>
+<li><a href="//qq.ip138.com/day/" target="_blank">阴阳转换万年历</a></li>
+<li><a href="//www.ip138.com/carlist.htm" target="_blank">全国各地车牌查询表</a></li>
+<li><a href="//qq.ip138.com/converter.htm" target="_blank">在线度衡量转换器</a></li>
+<li><a href="//www.ip138.com/gb.htm" target="_blank">汉字简体繁体转换</a></li>
+</ul>
+</div>
+</div>
+</div>                <div class="content">
+<div class="mod-breadcrumb">
+<a href="http://www.ip138.com/">首页</a> <span>&gt;</span> <a href="/">服务器iP</a> <span>&gt;</span> <strong>github.com服务器iP</strong>
+</div>
+<div class="mod-panel">
+<div class="hd">
+<h1><a href="/">iP或域名查询</a></h1>
+</div>
+<div class="bd">
+<div class="search">
+<input class="input-text" id="input" placeholder="请输入你要查询的iP或域名" type="text" value="github.com">
+<input class="input-button input-query" type="button" value="查询">
+<input class="input-button input-visit" type="button" value="访问">
+</div>
+<div class="link" id="link">
+</div>
+<div class="result result3">
+<ul class="navs">
+<li class="active"><a href="javascript:;" rel="nofollow">iP</a></li>
+<li><a href="/github.com/domain.htm">子域名</a></li>
+<li><a href="/github.com/beian.htm">备案</a></li>
+<li><a href="/github.com/whois.htm">Whois</a></li>
+<li><a href="https://www.zhaokuaizhao.com/github.com/" target="_blank">快照</a></li>
+</ul>
+<div class="panels">
+<div class="panel">
+<h2 class="name"><strong>github.com</strong>服务器iP：</h2>
+<h3>当前解析：</h3>
+<div id="curadress">
+<img src="//cache.ip138.com/site/image/public/loading.gif" width="32" height="32">
+</div>
+<p><a class="btn" href="https://www.chajiechi.com/#github.com" target="_blank" rel="nofollow">网站劫持真机检测</a></p>
+<h3>历史解析记录：</h3>
+<div id="J_ip_history" data-token="3aa7af4a2e4565eb8a2225c783900848">
+<p>
+<span class="date">2018-02-22-----2021-03-27</span>
+<a href="/52.74.223.119/" target="_blank">52.74.223.119</a>
+</p>
+<p>
+<span class="date">2018-02-22-----2021-03-27</span>
+<a href="/13.229.188.59/" target="_blank">13.229.188.59</a>
+</p>
+<p>
+<span class="date">2018-02-22-----2021-03-27</span>
+<a href="/13.250.177.223/" target="_blank">13.250.177.223</a>
+</p>
+<p>
+<span class="date">2017-03-30-----2021-03-24</span>
+<a href="/192.30.255.112/" target="_blank">192.30.255.112</a>
+</p>
+<p>
+<span class="date">2020-08-28-----2021-03-24</span>
+<a href="/140.82.121.4/" target="_blank">140.82.121.4</a>
+</p>
+<p>
+<span class="date">2020-08-28-----2021-03-24</span>
+<a href="/140.82.121.3/" target="_blank">140.82.121.3</a>
+</p>
+<p>
+<span class="date">2017-03-30-----2021-03-23</span>
+<a href="/192.30.255.113/" target="_blank">192.30.255.113</a>
+</p>
+<p>
+<span class="date">2019-07-03-----2020-10-29</span>
+<a href="/140.82.113.3/" target="_blank">140.82.113.3</a>
+</p>
+<p>
+<span class="date">2019-07-03-----2020-10-29</span>
+<a href="/140.82.114.3/" target="_blank">140.82.114.3</a>
+</p>
+<p>
+<span class="date">2019-05-23-----2020-10-07</span>
+<a href="/52.69.186.44/" target="_blank">52.69.186.44</a>
+</p>
+<p>
+<span class="date">2019-05-23-----2020-10-07</span>
+<a href="/13.114.40.48/" target="_blank">13.114.40.48</a>
+</p>
+<p>
+<span class="date">2019-06-05-----2020-10-07</span>
+<a href="/52.192.72.89/" target="_blank">52.192.72.89</a>
+</p>
+<p>
+<span class="date">2019-07-03-----2020-10-01</span>
+<a href="/140.82.113.4/" target="_blank">140.82.113.4</a>
+</p>
+<p>
+<span class="date">2019-07-03-----2020-10-01</span>
+<a href="/140.82.114.4/" target="_blank">140.82.114.4</a>
+</p>
+<p>
+<span class="date">2020-03-18-----2020-10-01</span>
+<a href="/140.82.112.4/" target="_blank">140.82.112.4</a>
+</p>
+<p>
+<span class="date">2020-03-18-----2020-10-01</span>
+<a href="/140.82.112.3/" target="_blank">140.82.112.3</a>
+</p>
+<p>
+<span class="date">2019-04-23-----2020-08-24</span>
+<a href="/140.82.118.4/" target="_blank">140.82.118.4</a>
+</p>
+<p>
+<span class="date">2019-04-22-----2020-08-19</span>
+<a href="/140.82.118.3/" target="_blank">140.82.118.3</a>
+</p>
+<p>
+<span class="date">2016-07-01-----2020-03-18</span>
+<a href="/192.30.253.113/" target="_blank">192.30.253.113</a>
+</p>
+<p>
+<span class="date">2016-07-01-----2020-03-17</span>
+<a href="/192.30.253.112/" target="_blank">192.30.253.112</a>
+</p>
+<p>
+<span class="date">2019-10-03-----2019-10-03</span>
+<a href="/52.78.231.108/" target="_blank">52.78.231.108</a>
+</p>
+<p>
+<span class="date">2016-01-13-----2016-06-06</span>
+<a href="/192.30.252.130/" target="_blank">192.30.252.130</a>
+</p>
+<p>
+<span class="date">2016-01-13-----2016-06-06</span>
+<a href="/192.30.252.131/" target="_blank">192.30.252.131</a>
+</p>
+<p>
+<span class="date">2016-01-13-----2016-06-06</span>
+<a href="/192.30.252.128/" target="_blank">192.30.252.128</a>
+</p>
+<p>
+<span class="date">2016-04-23-----2016-06-06</span>
+<a href="/192.30.252.123/" target="_blank">192.30.252.123</a>
+</p>
+<p>
+<span class="date">2016-04-23-----2016-06-06</span>
+<a href="/192.30.252.122/" target="_blank">192.30.252.122</a>
+</p>
+<p>
+<span class="date">2016-04-23-----2016-06-06</span>
+<a href="/192.30.252.120/" target="_blank">192.30.252.120</a>
+</p>
+<p>
+<span class="date">2016-01-13-----2016-06-02</span>
+<a href="/192.30.252.129/" target="_blank">192.30.252.129</a>
+</p>
+<p>
+<span class="date">2016-04-23-----2016-05-29</span>
+<a href="/192.30.252.121/" target="_blank">192.30.252.121</a>
+</p>
+</div>
+</div>
+</div>
+</div>
+<div class="result">
+</div>
+<div class="mod-idc"></div>
+<div class="banner">
+<script type="text/javascript">
+(function() {
+var s = "_" + Math.random().toString(36).slice(2);
+document.write('<div style="" id="' + s + '"></div>');
+(window.slotbydup = window.slotbydup || []).push({
+id: "u3920846",
+container:  s
+});
+})();
+</script>
+</div>
+<div class="result result1">
+<div class="group">
+<ul>
+<li class="title"><span>最新域名查询</span></li>
+<li><a href="/xx7070.com/" target="_blank">xx7070.com</a></li>
+<li><a href="/xhg2019.com/" target="_blank">xhg2019.com</a></li>
+<li><a href="/www9986.com/" target="_blank">www9986.com</a></li>
+<li><a href="/www.jsweiye.cn/" target="_blank">www.jsweiye.cn</a></li>
+<li><a href="/www.9mmkk.com/" target="_blank">www.9mmkk.com</a></li>
+<li><a href="/www.nhgie.cn/" target="_blank">www.nhgie.cn</a></li>
+<li><a href="/www.nbhtzt.cn/" target="_blank">www.nbhtzt.cn</a></li>
+<li><a href="/www.kewvmu.cn/" target="_blank">www.kewvmu.cn</a></li>
+<li><a href="/www.jxltgd.cn/" target="_blank">www.jxltgd.cn</a></li>
+<li><a href="/www.ccc90.com/" target="_blank">www.ccc90.com</a></li>
+<li><a href="/www.a6ss.com/" target="_blank">www.a6ss.com</a></li>
+<li><a href="/mzengji.cn/" target="_blank">mzengji.cn</a></li>
+<li><a href="/bilibilizb.com/" target="_blank">bilibilizb.com</a></li>
+<li><a href="/67660.com/" target="_blank">67660.com</a></li>
+<li><a href="/yyh2020.com/" target="_blank">yyh2020.com</a></li>
+</ul>
+<ul>
+<li class="title"><span>最新iP查询</span></li>
+<li><a href="/192.151.194.203/" target="_blank">192.151.194.203</a></li>
+<li><a href="/172.67.147.241/" target="_blank">172.67.147.241</a></li>
+<li><a href="/119.28.65.179/" target="_blank">119.28.65.179</a></li>
+<li><a href="/221.228.32.13/" target="_blank">221.228.32.13</a></li>
+<li><a href="/23.20.239.12/" target="_blank">23.20.239.12</a></li>
+<li><a href="/185.107.56.58/" target="_blank">185.107.56.58</a></li>
+<li><a href="/112.213.105.26/" target="_blank">112.213.105.26</a></li>
+<li><a href="/52.128.23.153/" target="_blank">52.128.23.153</a></li>
+<li><a href="/180.76.143.17/" target="_blank">180.76.143.17</a></li>
+<li><a href="/156.226.170.58/" target="_blank">156.226.170.58</a></li>
+<li><a href="/154.92.163.53/" target="_blank">154.92.163.53</a></li>
+<li><a href="/34.98.99.30/" target="_blank">34.98.99.30</a></li>
+<li><a href="/218.82.5.74/" target="_blank">218.82.5.74</a></li>
+<li><a href="/119.8.16.132/" target="_blank">119.8.16.132</a></li>
+<li><a href="/104.21.23.137/" target="_blank">104.21.23.137</a></li>
+</ul>
+</div>
+<div class="banner link" id="banner1"></div>
+<div class="banner">
+<script type="text/javascript">
+(function() {
+var s = "_" + Math.random().toString(36).slice(2);
+document.write('<div style="" id="' + s + '"></div>');
+(window.slotbydup = window.slotbydup || []).push({
+id: "u3920846",
+container:  s
+});
+})();
+</script>
+</div>
+<div class="group">
+<ul>
+<li class="title"><span>最新备案查询</span></li>
+<li><a href="/zcmyx.xyz/beian.htm" target="_blank">zcmyx.xyz</a></li>
+<li><a href="/ycchina.com/beian.htm" target="_blank">ycchina.com</a></li>
+<li><a href="/wtqx.cn/beian.htm" target="_blank">wtqx.cn</a></li>
+<li><a href="/xacloudshop.com/beian.htm" target="_blank">xacloudshop.com</a></li>
+<li><a href="/taoduoketop.cn/beian.htm" target="_blank">taoduoketop.cn</a></li>
+<li><a href="/dajiantong.net/beian.htm" target="_blank">dajiantong.net</a></li>
+<li><a href="/88b.top/beian.htm" target="_blank">88b.top</a></li>
+<li><a href="/whzqqc.com/beian.htm" target="_blank">whzqqc.com</a></li>
+<li><a href="/baoeredu.com/beian.htm" target="_blank">baoeredu.com</a></li>
+<li><a href="/bbyy.com/beian.htm" target="_blank">bbyy.com</a></li>
+<li><a href="/bdlgm.com/beian.htm" target="_blank">bdlgm.com</a></li>
+<li><a href="/beida100.com/beian.htm" target="_blank">beida100.com</a></li>
+<li><a href="/peakchao.top/beian.htm" target="_blank">peakchao.top</a></li>
+<li><a href="/eszls.com/beian.htm" target="_blank">eszls.com</a></li>
+<li><a href="/ttdjmatch.com/beian.htm" target="_blank">ttdjmatch.com</a></li>
+</ul>
+<ul>
+<li class="title"><span>最新子域名查询</span></li>
+<li><a href="/txkw.org.cn/domain.htm" target="_blank">txkw.org.cn</a></li>
+<li><a href="/rcsz.com/domain.htm" target="_blank">rcsz.com</a></li>
+<li><a href="/i-pu.cn/domain.htm" target="_blank">i-pu.cn</a></li>
+<li><a href="/hzdjwl.cn/domain.htm" target="_blank">hzdjwl.cn</a></li>
+<li><a href="/hrbzcfw.cn/domain.htm" target="_blank">hrbzcfw.cn</a></li>
+<li><a href="/hoteltt.cn/domain.htm" target="_blank">hoteltt.cn</a></li>
+<li><a href="/cdzcjg.cn/domain.htm" target="_blank">cdzcjg.cn</a></li>
+<li><a href="/847com.cn/domain.htm" target="_blank">847com.cn</a></li>
+<li><a href="/732561639.cn/domain.htm" target="_blank">732561639.cn</a></li>
+<li><a href="/5fyf65.cn/domain.htm" target="_blank">5fyf65.cn</a></li>
+<li><a href="/507070.com/domain.htm" target="_blank">507070.com</a></li>
+<li><a href="/zzdwd.cn/domain.htm" target="_blank">zzdwd.cn</a></li>
+<li><a href="/zswts.cn/domain.htm" target="_blank">zswts.cn</a></li>
+<li><a href="/zfeze.cn/domain.htm" target="_blank">zfeze.cn</a></li>
+<li><a href="/yycyf.cn/domain.htm" target="_blank">yycyf.cn</a></li>
+</ul>
+</div>
+<div class="banner link" id="banner2"></div>
+<div class="banner">
+<script type="text/javascript">
+(function() {
+var s = "_" + Math.random().toString(36).slice(2);
+document.write('<div style="" id="' + s + '"></div>');
+(window.slotbydup = window.slotbydup || []).push({
+id: "u3920846",
+container:  s
+});
+})();
+</script>
+</div>
+<!-- 多条广告如下脚本只需引入一次 -->
+<script type="text/javascript" src="//cpro.baidustatic.com/cpro/ui/cm.js" async="async" defer="defer" ></script>
+</div>                        </div>
+</div>
+</div>
+<div class="footer">
+<div class="mod-foot">
+<div class="logo only-pc"><a href="http://www.ip138.com/"><img src="//cache.ip138.com/site/image/public/logo.png" width="147" height="50" alt="iP查询网"></a></div>
+<div class="info">
+<p><span>如果您觉得本站对您的朋友有帮助，别忘了告诉他（她）们哟 ^_^</span></p>
+<p>
+<span class="contact">联系我们：请<a href="http://www.ip138.com/mail.htm" rel="nofollow" target="_blank">发email</a>或给<a href="http://qq.3533.com:8080/book.asp?siteid=7" rel="nofollow" target="_blank">我们留言</a>谢谢!</span>
+</p>
+</div>
+</div>
+<div class="mod-goback">
+<a href="#" rel="nofollow">返回顶部</a>
+</div>
+<div class="mod-mask"></div>
+</div>
+</div>
+</div>
+<iframe src="/domain/write.do?input=github.com&token=3aa7af4a2e4565eb8a2225c783900848" rel="nofollow" style="display:none;"></iframe>
+<script defer src="//cache.ip138.com/site/script/dist/common.js?v=202006241500"></script>
+<script defer src="//cache.ip138.com/site/script/dist/index.js?v=202006241500"></script>
+<script async src="//site.liantu.cn/script/?v=202006241500"></script>
+<script>
+(function(){
+var bp = document.createElement('script');
+var curProtocol = window.location.protocol.split(':')[0];
+if (curProtocol === 'https') {
+bp.src = 'https://zz.bdstatic.com/linksubmit/push.js';
+}
+else {
+bp.src = 'http://push.zhanzhang.baidu.com/push.js';
+}
+var s = document.getElementsByTagName("script")[0];
+s.parentNode.insertBefore(bp, s);
+})();
+</script>
+<div class="hide">
+<script>
+var _hmt = _hmt || [];
+(function() {
+var hm = document.createElement("script");
+hm.src = "https://hm.baidu.com/hm.js?d39191a0b09bb1eb023933edaa468cd5";
+var s = document.getElementsByTagName("script")[0];
+s.parentNode.insertBefore(hm, s);
+})();
+</script>
+<script>
+(function(){
+var src = "https://jspassport.ssl.qhimg.com/11.0.1.js?d182b3f28525f2db83acfaaf6e696dba";
+document.write('<script src="' + src + '" id="sozz"><\/script>');
+})();
+</script>
+</div>
+</body>
+</html>
