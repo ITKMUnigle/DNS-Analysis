@@ -1,5 +1,6 @@
 # DNS解析工具
 DNSAnalysis,DNS解析，DNS解析小工具----个人学习使用
+这是一款支持多平台的DNS解析工具（目前支持 Windows 和 Linux）
 
 ## 环境
 - JDK1.8
@@ -24,6 +25,7 @@ sukeme --饥荒好友
 
 # DNS resolution tool
 DNSAnalysis, DNS resolution, DNS resolution small tools-personal learning and use
+This is a DNS resolution tool that supports multiple platforms (currently supports Windows and Linux)
 
 ## surroundings
 - JDK1.8
