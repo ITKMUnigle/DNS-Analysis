@@ -45,4 +45,4 @@ This is a DNS resolution tool that supports multiple platforms (currently suppor
 4. sudo java -jar ResovleDNS.jar //execute the program
 
 ## Contributor
-sukeme --Famine Friends
+sukeme --Game Friends
