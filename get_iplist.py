@@ -121,12 +121,15 @@ def get_iplist(_domain):
             xxx = time()
             iplist = _taskid_iplist(taskid[1], taskid[2])
             temlist = iplist[3]
-            print(_domain + '.第%d次查询，' % (i+1) + '耗时{:.2f}s'.format(time() - xxx))
+            print(_domain + '.第%d次获取，' % (i+1) + '耗时{:.2f}s'.format(time() - xxx))
+            if time() - xxx < 2:
+                sleep(1)
+
             if iplist[0] == 1:  # 检测是否成功获取ip列表
                 # print('查询到')
                 # print(time() - xxxx)
                 if temlist == temtemlist:
-                    print(_domain + '.查询成功，耗时{:.2f}s'.format(time() - xxxx))
+                    print(_domain + '.获取成功，总耗时{:.2f}s'.format(time() - xxxx))
                     break
                 temtemlist = temlist
             elif iplist[0] == 2:  # 两次未收到返回数据时结束运行

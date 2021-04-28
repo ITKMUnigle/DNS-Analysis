@@ -313,17 +313,29 @@ if __name__ == "__main__":
     if len(argv) > 1:
         result = add(better_ip, 'Y')
         if result[0] == 1:
-            print('操作成功。\n%s' % result[1])
+            print('写入hosts文件成功。\n%s' % result[1])
         else:
-            print('操作失败。\n%s' % result[1])
+            print('写入hosts文件失败。\n%s' % result[1])
         print('------------')
         print()
     else:
-        result = add(better_ip, 'N')
-        if result[0] == 1:
-            print('操作成功。\n%s' % result[1])
-        else:
-            print('操作失败。\n%s' % result[1])
+        while True:
+            result = add(better_ip, 'N')
+            if result[0] == 1:
+                print('操作成功。\n%s' % result[1])
+                break
+            else:
+                print('操作失败。\n%s' % result[1])
+                print('请确认工具具有root或管理员权限，关闭加速软件，并退出所有占用hosts文件的软件，之后再重试写入。\n若依然失败，请重启电脑。\n若依然失败，请根据错误信息自行百度解决。')
+                while True:
+                    readd = input('\n写入hosts文件失败，是否重试：（留空默认“1”）\n1.重试\n2.不重试，结束\n') or '1'
+                    if readd in ['1', '2']:
+                        break
+                    print('请输入整数“1”、“2”并回车')
+                if readd == '1':
+                    pass
+                else:
+                    break
 
         input('回车退出')
 
